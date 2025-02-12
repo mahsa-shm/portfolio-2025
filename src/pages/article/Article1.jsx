@@ -1,5 +1,6 @@
 import React from 'react'
 
+//this article is about world wonders
 const Article1 = () => {
   return (
     <div>Article1</div>
